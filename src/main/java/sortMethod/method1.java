@@ -1,8 +1,9 @@
 package sortMethod;
 
 import java.util.concurrent.ThreadLocalRandom;
-/*
-    快速排序
+
+/**
+ * 快速排序
  */
 public class method1 {
     public void sort(int[] num) {
